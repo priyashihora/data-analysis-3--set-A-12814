@@ -232,7 +232,7 @@ If you change data in **Clean**, right-click the PivotTable → **Refresh**. For
 
 ## 12. Video
 
-- **Video URL:** https://www.example.com/your-video-link 
+- **Video URL:** https://drive.google.com/drive/folders/1FLFycMdNVbne1EijtoPE7lcoD_odGF1B
 
 ---
 
